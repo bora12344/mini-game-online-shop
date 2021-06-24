@@ -1,2 +1,2 @@
-# mini-online shoppingmall
+# mini-game online shop
  
